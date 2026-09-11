@@ -1,0 +1,4 @@
+user_engagement_tier,total_users,user_percentage,avg_watch_minutes,avg_sessions
+High Engagement (>300 mins),350,46.92,630.69,15.86
+Medium Engagement (100-300 mins),295,39.54,192.31,5.64
+Low Engagement (<100 mins),101,13.54,60.74,2.8

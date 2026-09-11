@@ -1,0 +1,61 @@
+content_id,content_title,content_type,genre,language,total_duration,release_year,total_views,total_watch_minutes,avg_watch_minutes,total_completions,completion_rate_pct
+C105,Pro Kabaddi League Finals,Sports,Sports,Tamil,70,2025,228,10236,44.89,110,48.25
+C107,Champions Trophy Pre-Show,Sports,Sports,Telugu,40,2026,218,5705,26.17,105,48.17
+C102,IPL Mega Auction Live Replay,Sports,Sports,Hindi,90,2026,216,11843,54.83,96,44.44
+C103,Premier League Weekly Showdown,Sports,Sports,English,60,2026,216,8339,38.61,104,48.15
+C104,IND vs ENG Test Day 3 Highlights,Sports,Sports,English,50,2026,215,6644,30.9,99,46.05
+C108,ISL Football Clash of Titans,Sports,Sports,Bengali,60,2025,209,8020,38.37,104,49.76
+C101,IND vs AUS T20 Cup Highlights,Sports,Sports,Hindi,45,2026,205,6055,29.54,101,49.27
+C140,Dance India Dance Championship,Show,Reality,Hindi,50,2025,184,5997,32.59,91,49.46
+C139,Bigg Boss Telugu Live,Show,Reality,Telugu,60,2026,181,7135,39.42,90,49.72
+C106,WPL T20 Blockbuster Match,Sports,Sports,Hindi,60,2026,180,6496,36.09,77,42.78
+C141,Shark Pitch India S4,Show,Reality,Hindi,55,2026,178,6283,35.3,87,48.88
+C142,Master Chef Kitchen Wars,Show,Reality,Hindi,45,2025,173,5160,29.83,92,53.18
+C143,Roadies Quest,Show,Reality,Hindi,45,2025,173,4685,27.08,73,42.2
+C138,Bigg Boss Tamil Season 8,Show,Reality,Tamil,60,2026,165,5996,36.34,71,43.03
+C144,Koffee Spotlight Lounge,Show,Reality,English,45,2025,163,4947,30.35,88,53.99
+C111,Yeh Rishta: Family Bonds,Show,Drama,Hindi,22,2026,157,1971,12.55,63,40.13
+C117,Ghar Ek Mandir Classic,Show,Drama,Marathi,24,2026,157,2438,15.53,77,49.04
+C119,The Crown Dynasty Legacy,Series,Drama,English,55,2024,156,5006,32.09,58,37.18
+C113,Kaithi Revenge Chronicles,Movie,Drama,Tamil,140,2025,153,11943,78.06,54,35.29
+C137,Bigg Boss All-Stars Hindi,Show,Reality,Hindi,60,2026,153,6168,40.31,77,50.33
+C116,Kolkata Love Diary,Movie,Drama,Bengali,125,2024,144,11522,80.01,68,47.22
+C110,Anupama: New Beginnings,Show,Drama,Hindi,25,2026,142,2069,14.57,60,42.25
+C118,Kerala Waterfront Mystery,Series,Drama,Malayalam,48,2025,142,3963,27.91,59,41.55
+C114,Telugu Royal Heritage,Series,Drama,Telugu,45,2025,141,3707,26.29,55,39.01
+C136,Speed Street Heist,Movie,Action,English,120,2024,137,9969,72.77,55,40.15
+C112,City of Dreams: The Succession,Series,Drama,Hindi,50,2024,136,4089,30.07,56,41.18
+C120,Succession Politics India,Series,Drama,Hindi,45,2025,134,3936,29.37,67,50.0
+C133,Rudra: The Edge of Darkness,Series,Action,Hindi,48,2024,134,4284,31.97,70,52.24
+C123,Sarabhai Classic Revival,Series,Comedy,Hindi,25,2025,132,1998,15.14,60,45.45
+C134,Night Hunter Squad,Movie,Action,English,130,2025,131,10412,79.48,57,43.51
+C109,Special Ops: Desert Falcon,Series,Drama,Hindi,45,2025,130,3923,30.18,70,53.85
+C131,Devara Storm Rising,Movie,Action,Telugu,160,2025,129,12335,95.62,53,41.09
+C115,Bengal Courtroom Secrets,Series,Drama,Bengali,40,2025,128,3167,24.74,57,44.53
+C122,Taarak Laugh Fest Episodes,Show,Comedy,Hindi,22,2026,118,1666,14.12,59,50.0
+C132,Commando Force Mumbai,Series,Action,Hindi,42,2026,114,2799,24.55,45,39.47
+C129,Tiger Underground Strike,Movie,Action,Hindi,155,2025,108,10379,96.1,43,39.81
+C126,Telugu Comedy Superstars,Show,Comedy,Telugu,30,2025,102,1866,18.29,44,43.14
+C130,Vikram: Shadow Commander,Movie,Action,Tamil,165,2024,102,11313,110.91,56,54.9
+C124,Standup Special: Bangalore Humor,Show,Comedy,English,65,2025,101,3905,38.66,43,42.57
+C125,Chennai Roast Arena,Show,Comedy,Tamil,40,2026,98,2284,23.31,37,37.76
+C135,Fighter Wing Alpha,Movie,Action,Hindi,145,2025,97,8613,88.79,38,39.18
+C128,College Boys Chaos,Movie,Comedy,Hindi,115,2024,96,7176,74.75,50,52.08
+C149,Shinchan Laugh Club,Series,Kids,Tamil,20,2025,94,1155,12.29,45,47.87
+C127,Pune Pun Factory,Show,Comedy,Marathi,30,2025,93,1885,20.27,51,54.84
+C146,Motu Patlu Space Adventure,Movie,Kids,Hindi,75,2024,93,4662,50.13,43,46.24
+C121,The Great Indian Comedy Lab,Show,Comedy,Hindi,35,2026,86,1815,21.1,36,41.86
+C148,Doraemon Magic Gadgets,Series,Kids,Hindi,20,2025,80,959,11.99,36,45.0
+C150,Super Bheem Galactic Battle,Series,Kids,Telugu,22,2026,78,1076,13.79,38,48.72
+C145,Chhota Bheem Himalayan Tour,Movie,Kids,Hindi,85,2025,74,4255,57.5,43,58.11
+C147,Little Singham Rescue Mission,Series,Kids,Hindi,20,2026,58,713,12.29,27,46.55
+C152,Global Tech & Economy Report,News,News,English,25,2026,55,877,15.95,28,50.91
+C158,State Express News Tamil,News,News,Tamil,30,2026,55,964,17.53,22,40.0
+C151,Daily Headlines 360,News,News,Hindi,30,2026,53,1016,19.17,26,49.06
+C156,Cricket Icons: The Untold Story,Show,News,Hindi,45,2025,52,1490,28.65,27,51.92
+C157,Startup Founders Blueprint,Show,News,English,40,2025,51,1360,26.67,29,56.86
+C159,Bengal Morning Bulletin,News,News,Bengali,25,2026,47,786,16.72,28,59.57
+C153,India at 2030: Space Ambitions,Show,News,English,50,2025,45,1427,31.71,21,46.67
+C160,Maharashtra Maha News,News,News,Marathi,30,2026,39,800,20.51,20,51.28
+C154,Elections Ground Pulse,News,News,Hindi,35,2026,38,885,23.29,19,50.0
+C155,Wildlife Wonders: Western Ghats,Show,News,English,52,2024,33,1040,31.52,13,39.39

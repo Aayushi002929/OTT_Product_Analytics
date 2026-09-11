@@ -1,0 +1,13 @@
+city,state,registered_users,total_views,total_watch_minutes,avg_watch_duration_minutes,completion_rate_pct
+Mumbai,Maharashtra,137,1355,50005,36.9,44.58
+Delhi,Delhi,118,1266,47615,37.61,47.55
+Bengaluru,Karnataka,116,1154,42492,36.82,46.27
+Chennai,Tamil Nadu,64,653,25592,39.19,46.4
+Hyderabad,Telangana,64,621,23788,38.31,45.73
+Kolkata,West Bengal,56,602,23177,38.5,47.18
+Pune,Maharashtra,46,474,18649,39.34,47.89
+Ahmedabad,Gujarat,40,392,15346,39.15,45.41
+Lucknow,Uttar Pradesh,34,322,12036,37.38,49.38
+Jaipur,Rajasthan,28,298,10645,35.72,40.94
+Kochi,Kerala,27,220,8250,37.5,45.45
+Patna,Bihar,16,143,6012,42.04,51.75

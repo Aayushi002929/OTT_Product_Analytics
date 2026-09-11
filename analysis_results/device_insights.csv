@@ -1,0 +1,5 @@
+device,total_views,view_share_pct,total_watch_minutes,avg_watch_duration_minutes,total_completed,completion_rate_pct
+Mobile,4169,55.59,141938,34.05,1654,39.67
+Smart TV,1820,24.27,81337,44.69,1068,58.68
+Web,1107,14.76,43531,39.32,531,47.97
+Tablet,404,5.39,16801,41.59,218,53.96

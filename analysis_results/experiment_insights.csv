@@ -1,0 +1,3 @@
+group_name,total_users,total_sessions,avg_sessions_per_user,total_watch_minutes,avg_watch_duration_per_user,avg_watch_minutes_per_session,total_completed_sessions,completion_rate_pct
+Control,300,2492,8.31,75044,250.15,30.11,821,32.95
+Treatment,300,2967,9.89,110884,369.61,37.37,1352,45.57
